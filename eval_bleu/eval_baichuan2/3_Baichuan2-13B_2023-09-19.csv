@@ -1,0 +1,18 @@
+file,条数,平均 bleu
+alpaca,699,0.14287567954220318
+FinCUGE,431,0.04865846867749421
+wld,145,0.027306206896551718
+Prompt-基于技术交底书-新结构-710_100_test.jsonl,3,0.11543333333333335
+中文阅读理解,192,0.09057291666666668
+yunkefu_test.jsonl,48,0.019543750000000002
+cn_en_align_test.jsonl,48,0.1322583333333333
+firefly-1.1M_test.jsonl,48,0.2802479166666666
+generate_sim_data_instruction_test.jsonl,48,0.13757708333333335
+wyd,96,0.021067708333333338
+nlu_data_test.jsonl,48,0.05926666666666667
+annotation_task_export_test.jsonl,47,0.06572340425531915
+asr_aishell1_instruction_test.jsonl,48,0.3569645833333334
+kefu_weilidai_test.jsonl,23,0.02643913043478261
+patent_test.jsonl,18,0.02328888888888889
+jiucuo_instruction_test.jsonl,48,0.43941250000000015
+generate_prompt_data_instruction_test.jsonl,48,0.04751250000000001
